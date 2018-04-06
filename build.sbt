@@ -6,7 +6,7 @@ name := "scala-pdf"
 
 organization := "net.kaliber"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.2"
 
 crossScalaVersions := Seq("2.10.4", "2.11.4", "2.12.2", scalaVersion.value)
 
